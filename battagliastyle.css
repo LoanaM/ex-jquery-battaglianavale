@@ -4,6 +4,12 @@
   padding: 0;
 }
 
+.contatore {
+  border: 2px solid black;
+  height: 30px;
+  width: 100px;
+}
+
 .container {
   width: 80%;
   height: 400px;
@@ -16,19 +22,3 @@ td {
   border: 1px solid black;
   cursor: crosshair;
 }
-/* .tablegrid {
-  display: grid;
-  grid-template-columns: repeat(8, 50px);
-  grid-template-rows: repeat(8, 50px);
-  border: 1px solid black;
-
-}
-.ship {
-  grid-column: 1 / 2;
-  border: 1px solid black;
-}
-.row {
-  grid-column-start: 1;
-  grid-row-start: 2 ;
-  border: 1px solid black;
-} */
